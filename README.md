@@ -2,6 +2,8 @@
 
 ### 👤 Autor: Ronielle de Sena Silva  
 
+### 👨‍🏫 Professor responsável: [@profsandromesquita](https://github.com/profsandromesquita)
+
 ---
 
 ## 📌 Descrição
